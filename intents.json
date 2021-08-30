@@ -1,0 +1,74 @@
+{"intents": [
+  {
+    "tag": "hello",
+    "patterns": ["Hi", "Hey", "Hey there", "wassup", "sup", "hello", "Good day", "Good morning", "Good evening", "Good morning", "good night", "good afternoon"]
+  },
+  {
+    "tag": "name",
+    "patterns": ["Whats your name", "What do I call you", "What is your name"]
+  },
+  {
+    "tag": "age",
+    "patterns": ["How old are you", "Whats your age", "What is your age"]
+  },
+  {
+    "tag": "time",
+    "patterns": ["What is the time", "What's the time right now", "Time right now", "What's the time"]
+  },
+  {
+    "tag": "date",
+    "patterns": ["What is the date", "What's today's date", "Date", "Date today", "What's the date"]
+  },
+  {
+    "tag": "calculate",
+    "patterns": ["Calculate", "Calculator", "I would like to calculate", "Can you calculate this", "Calculate this equation"]
+  },
+  {
+    "tag": "favsong",
+    "patterns": ["What is your favourite song", "What music do you listen to", "Favourite song", "What's the best song", "Best song", "what's your favourite song"]
+  },
+  {
+    "tag": "favfood",
+    "patterns": ["What is your favourite food", "What food do you like to eat", "Favourite food", "What's the best food", "Best food", "what's your favourite food"]
+  },
+  {
+    "tag": "favcolor",
+    "patterns": ["What is your favourite color", "Favourite color", "What's the best color", "Best color", "what's your favourite color"]
+  },
+  {
+    "tag": "favanimal",
+    "patterns": ["What is your favourite animal", "What animal do you like", "Favourite animal", "What's the best animal", "Best animal", "what's your favourite animal"]
+  },
+  {
+    "tag": "roast",
+    "patterns": ["Roast me", "can you roast me", "roast me please", "Tell me a roast", "I would like to be roasted", "roastme"]
+  },
+  {
+    "tag": "weather_report",
+    "patterns": ["How is the weather", "Hows the weather", "what is the weather", "Weather", "Hows the weather today", "Weather today", "Weather report", "report weather"]
+  },
+  {
+    "tag": "feels_like",
+    "patterns": ["What does it feel like", "feels like", "weather feel like", "what does the weather today feel like"]
+  },
+  {
+    "tag": "temp",
+    "patterns": ["What is the temperature", "temperature", "temperature right now", "temp", "temperature today"]
+  },
+  {
+    "tag": "min_max",
+    "patterns": ["What is the minimum temperature today", "what is the maximum temperature today", "min max", "minimum and maximum temperature"]
+  },
+  {
+    "tag": "sunset",
+    "patterns": ["When is sunset", "When is sunset today", "what time is sunset", "sunset today", "sunset time"]
+  },
+  {
+    "tag": "sunrise",
+    "patterns": ["When is sunrise", "When is sunrise today", "what time is sunrise", "sunrise today", "sunrise time"]
+  },
+  {
+    "tag": "",
+    "patterns": [""]
+  }
+]}
